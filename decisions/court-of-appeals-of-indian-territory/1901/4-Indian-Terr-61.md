@@ -1,0 +1,23 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1901-10-04"
+citations: ["4 Indian Terr. 61"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Townsend, C. J., and Gill and Raymond, JJ., concur."]
+parties: ["George vs Robb, et al."]
+source_url: "https://static.case.law/indian-terr/4/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 618277
+cites_cases: ["23 Ark. 569", "30 Stat. 504"]
+---
+
+# George v. Robb
+
+## Majority (Clayton, J.)
+
+Clayton, J.
+This case rests solely upon the determination of the question as to whether the law of Arkansas as contained in chapter 155 of Mansfield's Digest (chapter 58, Ind. T. St. 1899), relating to wills, as extended over the Indian Territory, is to be enforced in the administration of estates of citizens of the Creek Nation. By section 26 of the act of congress of June 28, 1898 (30 Stat. 504; section 57zl6, Ind. T. Ann. St. 1899), it is provided that the laws of the various tribes shall not be enforced by the courts of the United States in the Indian Territory after the passage of that act. And by section 28 of the same act (section 57zl8, Ind. T. St. 1899) it is provided that the courts of the Creek Nation shall be abolished on and after October 1, 1898. Jurisdiction to hear and determine all civil suits was conferred upon the United States Courts after that date, and, by the provisions of the section above cited, the laws of the Creek Nation could not be enforced. (The ratification of the Atoka agreement, however, left the jurisdiction of the courts of the Choctaw and Chickasaw Nations unchanged until March 4, 1906.) The provisions above cited bring the Creek citizen within the jurisdiction of the laws of the United States, for it cannot be said that congress intended to abolish the Creek courts, render their laws nugatory by prohibiting their enforcement, clothe the United States Courts with jurisdiction of the person of the Creek citizen, but powerless to enforce as to him the laws of the United States in force here. And, this being true, the will of Sugar George having been made on October 4, 1898, and the suit having been instituted on July 20, 1900, both after the abolishment of the Creek Courts, the case must be tried, and the rights of the parties measured and adjudicated, by the laws of the Indian Territory.
+Section 3572, Ind. T. St. 1899 (Mansf. Dig. § 6500), is as follows: "When any person shall make his last will and testament, and omit to mention the name of a child, if living, * * every such person, so far as regards such child, shall be deemed to have died intestate, and such child shall be entitled to such proportion, share and dividend of the estate, real and personal, of the testator as if he had died intestate; and such child shall be entitled to recover ffbm the devisees and legatees in proportion to the amount of their respective shares, and the .court exercising probate jurisdiction shall have power to decree a distribution of such estate according to the provisions of this and the preceding sections.” This section has been passed upon by the Supreme Court of Arkansas, and it is held that an omission, either intentional or accidental, to mention either, any, or all of testator’s children, while not rendering the will void as to those mentioned, gives to those not mentioned the right to apply to a court of. chancery for relief. Branton vs Branton, 23 Ark. 569. And this.is certainly a proper construction of this section, supported both by reason and the weight of authority. The law does not prevent a man from disposing of his property as he may see fit; but it throws a safeguard around his children, the issue of his body, to the extent of requiring him to specifically mention their names in his final disposition of his property, so that there' may be no question as to his real intent. The will of Sugar George does not mention the name of Harry George, who, by the demurrer, is admitted to be the only living legitimate child of deceased; and by the plain terms of the statute in force in this jurisdiction at the time the will was executed he is entitled to a trial upon the merits, and, should the allegations of his complaint be sustained, to a distributive share of the estate of his father. We think the complaint states a cause of action, and that the court therefore erred in sustaining the demurrer. For the reasons assigned, the cause must be reversed and remanded, with directions to proceed to a trial upon the merits.
+Townsend, C. J., and Gill and Raymond, JJ., concur.
