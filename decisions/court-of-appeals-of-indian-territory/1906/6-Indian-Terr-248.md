@@ -1,0 +1,25 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1906-10-27"
+citations: ["6 Indian Terr. 248", "97 S.W. 36"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gill and Clayton, JJ., concur. Raymond, C. J., not participating."]
+parties: ["Thompson vs Wood."]
+source_url: "https://static.case.law/indian-terr/6/cases/0248-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 620790
+cites_cases: ["14 Ark. 235", "19 S. W. 105", "32 Ark. 17", "35 Am. St. Rep. 82", "35 Ark. 97", "4 Ark. 70", "43 Ark. 545", "56 Ark. 45"]
+---
+
+# Thompson v. Wood
+
+## Majority (Townsend, J.)
+
+Townsend, J.
+(after stating the facts). The appellant has filed six specifications of error as follows: “(1) The court erred in sustaining appellee’s motion to dismiss the suit. (2) The court erred in not holding that appellee entered his appearance in said cause by his motion to have said cause reset for trial. (3) The court erred in not holding that said appellee entered his appearance by having the commissioner to continue said cause until the 7th day of December, 1903, on his motion. (4) The court erred in not holding the law to be that in cases of this kind suit may be brought in one commissioner’s 'district against parties residing in another commissioner’s district. (5) The court erred in rendering judgment against appellant for cost after holding that he had no jurisdictions of the person of the appellee or the property in controversy. (6) The court erred in dismissing said cause on appellee’s motion.”
+The appellant contends that defendant having appeared for trial, and the case having been continued on his motion, by the commissioner, to December 7, 1903, that such appearance gave the commissioner jurisdiction, and cites Epps vs Sasby et al., 43 Ark. 545: “A. and B. were sued before a justice of the peace on a debt. A. was not served with process and did not appear. B. appeared and asked for a postponement until his attorney could arrive. In due time his attorney came and moved to quash the service which was insufficient. The justice refused to quash it; and, B. saying nothing further, judgment was rendered against both defendants. Held, on certiorari to quash it, that the judgment was void as to A. for want of service but good as to B., who voluntarily appeared.” Also St. L., I. M. & S. Ry. Co. vs Barnes et al., 35 Ark. 97: “The return of service in this case was defective. Cairo & F. R. R. Co. vs Trout, 32 Ark. 17. Section 4515, Gantt’s Dig., was amended by acts of March 9, 1877. See Acts 1877, p. 59. But the transcript of the justice shows that on the return day of the summons the plaintiff (Barnes) appeared, ‘and the defendant by E. A. Warren, attorney, and asked that the cause be continued until the 11th day of September. 1876 ' The appearance of the defendant by attorney, and consenting to a continuance of the cause, was a substantive act, dispensing with the service of process. Rogers vs Conway, 4 Ark. 70. State Bank vs Walker, 14 Ark. 235.” Hawkins vs Taylor, 56 Ark. 45, 46, 19 S. W. 105, 35 Am. St. Rep. 82: “Where a proceeding against a sheriff for failure to return an execution within 60 days is erroneously instituted by motion for summary judgment, under sections 3963, 3964, Mansf. Dig. (Ind. Ter. Ann. St. 1899, §§ 2643, 2644), instead of upon issuance and service of summons, as required under section 3061, Mansf. Dig. (Ind. Ter. Ann. St. 1899, § 2176), the irregularity may be waived by entry of appearance and going to trial without objection.” Rogers vs Conway, 4 Ark. 70: “The object of service and notice was to apprise the party of the nature of the proceedings against him. The fact of his agreeing to the continuance is evidence of his having made himself a party to the record; and by such appearance, any defect that might exist, as to the service of the writ or notice, was waived.” And other cases are cited to sustain appellant’s contention.
+Appellant contends that, under section 4029, Mansf. Dig. (Ind. Ter. Ann. St. 1899, § 2709), which is as follows: “Actions cognizable before a justice of the peace, instituted by summons or warrant, shall be brought before some justice of the peace of the township wherein the defendant resides, or is found, or, if there be one or more defendants in different townships, then in the township where one of them resides, or is found. Provided, that actions, by attachment, actions for the recovery of personal property, actions for provisional remedies, and all criminal actions and proceedings, may be brought before any justice of the peace in the county” — the court had jurisdiction of the defendant and the property in controversy.
+The defendant having submitted to the jurisdiction of the court, we are of the opinion that the motion to dismiss should have been overruled, and the cause tried by the court below. Let the cause be reversed and remanded.
+Gill and Clayton, JJ., concur. Raymond, C. J., not participating.
