@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1907-09-26"
+citations: ["7 Indian Terr. 394", "104 S.W. 657"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gill, C. J., and Clayton, J., concur."]
+parties: ["Deskin vs Stuckey et al."]
+source_url: "https://static.case.law/indian-terr/7/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11656144
+cites_cases: ["104 S. W. 647"]
+---
+
+# Deskin v. Stuckey
+
+## Majority (Townsend, J.)
+
+Townsend, J.
+This case stands upon the same footing, both as to the law and the facts, as Farrington vs Stuckey (decided at this term) 104 S. W. 647, and, following the opinion in that case, the judgment of the lower court in this case is affirmed.
+Gill, C. J., and Clayton, J., concur.
