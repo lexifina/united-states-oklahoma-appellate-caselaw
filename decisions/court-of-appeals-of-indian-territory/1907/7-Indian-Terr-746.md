@@ -1,7 +1,7 @@
 ---
 court: "Court of Appeals of Indian Territory"
 decided: "1907-09-26"
-citations: ["7 Indian Terr. 746", "104 S.W. 1163", "7 Indian Terr. 749", "104 S.W. 1165"]
+citations: ["7 Indian Terr. 746", "104 S.W. 1163"]
 reporter: "indian-terr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
