@@ -1,0 +1,23 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1896-09-19"
+citations: ["1 Indian Terr. 394"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, J., concurs in this opinion."]
+parties: ["Martin vs Stratton-White Co."]
+source_url: "https://static.case.law/indian-terr/1/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11654976
+---
+
+# Martin v. Stratton-White Co.
+
+## Majority (Springer, C. J.)
+
+Springer, C. J.
+(after stating the facts.) Counsel appellant submit five assignments of error. Four of e relate to the motion to quash the attachment and ishment, to the amendment which the court allowed ¡llee to make to these proceedings, and to the judgment josts of the attachment, and garnishment. The court red appellee to amend by interlineation. The allowance e amendment was clearly within the court’s discretion, jpo injury prejudicial to the substantial rights of the ap-nt resulted on that account. rl his court must disregard error or defectin the pleadings which does not affect the bantial rights of the adverse party, and no judgment Id be reversed by reason of such error or defect. Mansf. § 5083.
+The fifth assignment of error by appellant is as fol- : “That the court eired in denying appellant the right ove the damaged condition of the merchandise received im.” The determination on this assignment turns upon uestion whether the contract sued on constituted a sale, jonsignment of the goods to an agent for sale on com-on?. ' The contract was in writing, and is made an exhibit must be construed according to its terms. -It is quite .hy, covering four pages of typewritten matter . in the d. The goods consisted of agricultural implements, ;hey were to be shipped by appellee from Ft. Worth, to the appellant at Pauls Valley, Indian Territory, “to Id, and accounted for to the said Stratton and White, in 'cash or purchaser’s notes, as herein described, at the pric ' agreed upon when goods are shipped. ” All notes tak< were to be on blanks furnished by appellee and to be gua antied by Martin, and all sales were to be made, and not taken therefor, in the name of the appellee. It was furth provided as follows: “That the ownership of all vehicle implements, or other goods furnished under this contract, their proceeds, shall remain in Stratton and White un settlement shall have been made for them by the said par of the second part, as herein provided;” and, furthc “Should said party of the first part [the appellee] desire resume possession of said goods so consigned, they shall entitled to receive them- free from any charges for freigl cartage, storage, or insurance paid or incurred on accou thereof by said party of the second part [the appellant The stipulation in the contract which is especially significa is substantially as follows: “The party of the second pa Martin, agrees to sell all the goods ordered under this cc tract within twelve months, and, in case of any failm agrees to settle for the goods unsold, if called on by Stratt and White, in either of the following ways, as Stratton a White may elect: To give his .note, due in six months, blanks furnished' by them, payable to them or order, or deliver said goods, in good order, free of charge, subject the order of Stratton and White.” These provisions cleai cb-ara°ter of the contract. It did not provide foi sale of the goods to Martin, but merely for a consignment them to. him for sale on commission.. Martin was no1 vendee, conditionally or otherwise. He was an, agent Stratton & White. It was not error on the part of the coi to refuse to allow appellant to prove the damaged conditi of the goods. That fact was immaterial and irrelevant, the goods were in a damaged condition, Martin should ha notified his principal, under the terms of his agency. I sole compensation was the difference between the amor :ed on each, article and the price for which the agent artin could sell it. If he sold it, he was chargeable at once, th the amount fixed upon it, and the condition in which it ght have been at that time was wholly immaterial. He d no authority to sell the implements except in such man-r as would wholly compensate him for his trouble, by re-iving a sum in excess of the amount he was to pay to his incipals. If he parted with the goods, he was obliged to count to Stratton & White for the amount, which had been reed upon between him and them. The instructions of the art and the verdict of the jury are strictly in accordance bh the letter and spirit of the contract, and the judgment the court is affirmed.
+oomrict1611*'
+Lewis, J., concurs in this opinion.
