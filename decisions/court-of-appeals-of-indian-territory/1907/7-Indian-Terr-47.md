@@ -1,0 +1,25 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1907-06-14"
+citations: ["7 Indian Terr. 47", "103 S.W. 761"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gill, C. J., and Lawrence, J. concur."]
+parties: ["JEFFRIES vs UNITED STATES."]
+source_url: "https://static.case.law/indian-terr/7/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11654351
+cites_cases: ["10 L. Ed. 987", "105 Am. St. Rep. 1001", "112 Tenn. 572", "66 Neb. 312", "80 N. Y. 373", "82 S. W. 185", "92 N. W. 911"]
+---
+
+# Jeffries v. United States
+
+## Majority (Clayton, J.)
+
+Clayton, J.
+(after, stating the facts). The only question presented for consideration here is: On a trial for receiving stolen goods, is it competent for the government to introduce evidence tending to show that the defendant had subsequently, and within a short time, thereafter; received stolen goods from the same party, for '.the purpose of showing guilty knowledge or intent? It is conceded by counsel for plaintiff in error in their brief that evidence of prior offensek, under such circumstances, is competent; but it is contended that subsequent transactions would shed no light on prior events. Of course, as to the question of receiving stolen property, if it were shown that goods, although stolen at different times, had been in fact received by the defendant at one and the same time, and his guilty' knowledge, and therefore crime, dated from the reception of them, it would all be one transaction, and the dates of the larcenies would be immaterial. But in this case it must b'e conceded, although the proof does not clearly show, that the goods were received at different times, and that the goods to which objection was made'were réceived subsequently • — not to exceed 12 days — to the receipt of the goods charged in the indictment. The question is, therefore, on principle the same as the attempted proof of a subsequent offense for the purpose of showing intent or guilty knowledge of the defendant with reference to the crime charged.
+We think this question too well settled to need anything more than the citation of authorities. Here goods which had been stolen the night before they were found, were traced to the possession of the defendant, and were found intermingled with the goods received from the same thief which had been stolen only 12 days before, and for the receiving of which the defendant was on trial. Surely the possession of these goods, so recently after they had been stolen, shed light, in fact a most brilliant lustre upon the question of the defendant’s knowledge, and was as clearly competent as the proof of the fact that the goods stolen 12 days prior would have been had he been upon trial for receiving the goods stolen the night before they were found. When the object is to show system, subsequent as well as prior offenses, when tending to’ establish identity or intent, can be put in evidence. The question is one of induction, and the larger the number of consistent facts the more complete the induction is. The time of the collateral inculpatory facts is immaterial, provided they be close enough together to indicate that they are a part , of a system. Whart. Cr. Ev. § 38, “It is immaterial whether the other possessions occurred before or after the possessions charged. It is the multiplication of instances that affects our belief, and not the time of their occurrence, provided the time is not so distant as to be accountable for on the theory of ‘chance acquisition.’ ” 3 Wigmore, Ev. § 325. “It is next argued that the trial court erred in admitting evidence of the receipt by the defendant from the witness White of other stolen horses subsequent to the time of the alleged receipt of the property described in the information for the receipt of which the defendants were on trial. * * * We can conceive of no logical reason for distinguishing these transactions subsequent to the main one from the one occurring before that time. They all bear the same relation to the principal transaction. If one offense has a logical connection with the principal one, for the purpose of establishing guilty knowledge of the offense charged in the information, then all others, have whether occurring "before or subsequent to that time.” Goldsberry vs State, 92 N. W. 911, 66 Neb. 312. See, also, Underhill, Cr. Ev. § 88; 3 Greenleaf, Ev. § 15; Wood vs U. S., 16 Pet. (U. S.) 358; 10 L. Ed. 987; People vs Shulman, 80 N. Y. 373, note, and the elaborate footnote by Mr. Freeman, “Subsequent Offenses as Evidencing Intent;” Sykes vs State, 112 Tenn. 572, 82 S. W. 185, 105 Am. St. Rep. 1001.
+There is nothing in the contention that the verdict is not supported by the evidence. The charge of the court was proper, clearly evidenced by the fact that the eminent counse for defendant took no exceptions thereto, and the testimony fully justified the finding of the jury that the defendant was guilty beyond a reasonable doubt.
+The judgment of the court below is affirmed.
+Gill, C. J., and Lawrence, J. concur.
