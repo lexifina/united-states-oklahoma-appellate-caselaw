@@ -1,7 +1,7 @@
 ---
 court: "Court of Appeals of Indian Territory"
 decided: "1900-10-06"
-citations: ["3 Indian Terr. 379", "3 Indian Terr. 374"]
+citations: ["3 Indian Terr. 379"]
 reporter: "indian-terr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Simmons Clothing Co. vs Davis (Wright, Intervener)."]
 source_url: "https://static.case.law/indian-terr/3/cases/0379-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 622248
-cites_cases: ["11 S. W. 577", "18 S. W. 186", "19 N. W. 282", "31 S. W. 740", "34 Ark. 710", "37 Ark. 612", "37 Ark. 619", "38 Ark. 528", "51 Ark. 382", "53 S. W. 453", "55 Ark. 329", "58 S. W. 653", "61 Ark. 35", "63 Iowa, 365", "85 Ind. 33"]
+cites_cases: ["11 S. W. 577", "18 S. W. 186", "19 N. W. 282", "31 S. W. 740", "34 Ark. 710", "37 Ark. 612", "37 Ark. 619", "38 Ark. 528", "51 Ark. 382", "55 Ark. 329", "58 S. W. 653", "61 Ark. 35", "63 Iowa, 365", "85 Ind. 33"]
 ---
 
 # Simmons Clothing Co. v. Davis
