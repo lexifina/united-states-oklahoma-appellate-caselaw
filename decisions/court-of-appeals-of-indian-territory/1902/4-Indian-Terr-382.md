@@ -1,0 +1,21 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1902-09-25"
+citations: ["4 Indian Terr. 382"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Biggs, vs Colby."]
+source_url: "https://static.case.law/indian-terr/4/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 618283
+cites_cases: ["13 S. W. 733", "133 U. S. 107", "22 Am. St. Rep. 182", "42 Ark. 410", "53 Ark. 73"]
+---
+
+# Biggs v. Colby
+
+## Majority (Clayton, J.)
+
+Clayton, J.
+The only question in this case for our consideration is, was the appellant entitled to the relief prayed for? The relief asked was an order restraining the appellee, a resident of this jurisdiction, from prosecuting an action against appellant also a resident of this jurisdiction, in a foreign jurisdiction, whereby the appellant was deprived of the exemption laws of his domicile. “ The courts of equity of the state where the parties reside will, by injunction, restrain the prosecution in another state of any suit brought there for the purpose of avoiding the exemption laws of the state where both parties reside.” Rood, Garnishm. § 103. “A creditor who attempts to evade the exemption laws of his state by resort to attachment proceedings in the court of another state against the property of a debtor who is a resident of the state of the creditors’ domicile may be enjoined by the courts of the latter state from prosecuting his suit in the foreign jurisdiction.” Wap. Homest. 888; Griffith vs Langsdale, 53 Ark. 73, 13 S. W. 733, 22 Am. St. Rep. 182. "Where a creditor and debtor are both citizens in and residents of the same state, and the creditor institutes an action of attachment and garnishment proceedings in another state to reach credits due to the debtor there, and which would have been exempt from attachment or legal process under the laws of the state where both parties are domiciled, the creditor may be enjoined from further prosecuting the action in the foreign state, as an effort to evade the laws of the state of his domicile.” High, Inj. 106. And this same doctrine has been clearly laid down by Chief Justice Fuller in the case of Cole vs Cunningham, 133 U. S. 107, 10 Sup. Ct. 269, 33 L. Ed. 538, wherein a Massachusetts creditor sought to evade the insolvent laws forbidding preferences by attaching a debt in New York due the debtor, a citizen of Massachusetts. And it makes no difference that the amount in controver-y is less than $20. Section 3750, Mansf. Dig. (section 2509, Ind. Ter. St. 1899), which provides that no injunction shall be issued to stay proceedings on the judgment of a justice of the peace where the judgment is less than $20, does not apply to this case, for two reasons; First, the judgment rendered here by the justice of the peace was in a foreign jurisdiction, and this section could have no extra territorial effect; and, second,- this is not an action to stay proceedings upon a judgment. It is to prevent the appellee from practicing a fraud upon the law of this jurisdiction, and depriving the appellant of the right to avail himself of the exemption laws enacted for his benefit. It has been held by the supreme court of Arkansas that the remedy for a failure or refusal of a justice to allow exemptions is by appeal, and this without regard to the amount in controversy. Winter vs Simpson, 42 Ark. 410. Sectio n 3006, Mansf. Dig. (§ 2121, Ind. Ter. St. 1899), provides that an appeal may be taken from any order or judgment rendered by the justice of the peace upon the filing of the affidavit and executing the bond required in other eases of appeal. This is a provision for a specific appeal as to the claim of exemptions, and is not affected by limitation on the right to appeal where the amount in controversy is less than $20. And therefore, had this suit been brought in this jurisdiction, and had the commissioner refused to allow appellant to claim his exemption, even though the amount sued for was less than $20, he could have appealed from this action. The appellant has, therefore, been deprived of a right which he possessed under the law of his domicile, and the action of the appellee was a fraud upon the law, and should h ave been enjoined.
+Reversed and remanded.
