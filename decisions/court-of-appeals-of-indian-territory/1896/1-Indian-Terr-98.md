@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1896-11-28"
+citations: ["1 Indian Terr. 98"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, J., concurs."]
+parties: ["White et al, vs Brown."]
+source_url: "https://static.case.law/indian-terr/1/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11653173
+cites_cases: ["1 C. C. A. 340", "132 U. S. 50", "145 U. S. 421", "19 Ark. 71", "24 L. R. A. 206", "26 Ark. 662", "3 Ark. 144", "31 Ark. 334", "35 Ark. 225", "37 Ark. 555", "40 Ark, 40", "41 Ark. 465", "42 Ark. 148", "42 Ark. 362", "42 Cal. 18", "47 Ark. 352", "49 Fed. 506", "56 Ark. 391", "57 Ark. 304", "6 Wheat, 105", "64 A. D. 205", "70 Fed. 883", "74 U. S. 542", "8 Otto 425"]
+---
+
+# White v. Brown
+
+## Majority (Springer, C. J.)
+
+Springer, C. J.
+(after stating the facts.) The contract from Albert Wolf to appellants, relied upon by them, was in violation of the laws of the Chickasaw Nation with reference to the leasing of lands by its citizens to non-citizens. But it is contended on behalf of appellants that as between them and appellee the maxims, “In pari delicto, melior est conditio possidentis,” and “In pari delicto potior est con-ditio defendentis,” apply. Were Albert Wolf the party adverse to appellants in this action, this contention would be well founded. In law he could not take advantage of his own wrong and set up the illegality of his lease against his lessee. Should he regain possession of the leased premises by force, the law would give a remedy against him. Should a stranger seek to avail himself of the illegality of the contract by invading the possession of the lessee, and thereafter averring the invalidity of the lease, he would be mel with the principle that the sovereignty, and not an individual, shall vindicate the infraction of public law. But appel lee was not a party to the lease relied upon. She cannot be affected by its provisions, unless the facts estop her to ave: its illegality. Such an estoppel never arises. It is unneces sary to determine whether the facts of this record would have been sufficient to estop her from showing her paramount title had the lease from Albert Wolf to appellants been in conformity with law. It was not in conformity with law, and. it is fundamental that no one can estop himself to prove facts which show a contract to which he is not a party to be opposed to law or public policy. Greenh. Pub. Pol. 115. It follows, therefore, that whether the court overruled the plea of estoppel upon demurrer, or heard proof upon such plea, as the record shows, its conclusion was correct that the facts as to such estoppel did not constitute a defense.
+Estoppessssl. Public policy,
+On December 5, 1895, appellee filed a petition in the court below praying the court to correct an erroneous recital in the judgment which had theretofore been entered, and on the 4th day of January, 1896, the presiding judge granted the prayer of the petition, and made the correction. Such correction consisted in showing that the court heard evidence upon the plea of estoppel heretofore considered. This amended judgment was duly certified to this court. As we have held that, if the court did not sustain the demurrer, he should have done so, consideration of this question is not necessary to a disposition of this appeal, but, as it presents a matter of practice, it is not improper to determine it. Appellants’ counsel insist that the amendment of the judgment was made in vacation, and that, therefore, this court should disregard it. They contend that as the regular term began at Ardmore on the first Monday in October, and the regular term at Pauls Valley on the second Monday in December, there could be no adjourned term of the Ardmore court after the ^holding of a court at Pauls Valley. We are of the opinion that the court had the right to adjourn to a day past the time of holding court at another place within the district. The amendment was not, therefore, made in vacation, but in open court, as the record shows, and all courts have the right to amend their records so as to make them speak the truth. Bank vs Withers, 6 Wheat, 105; People vs Ah Ying, 42 Cal. 18.
+Improvements by tenant- Ke-muneration.
+The court below committed no error in transferring this case to the equity side of the docket. The lease, as such, was void; but it was more than a lease of land; it was also a contract for making certain improvements on the lauds which were to be made in lieu of cash payments, or of giving portions of the crop. The court below properly held that the appellee should not be permitued to repossess herself of the land in question without allowing appellants remuneration for the improvements they had made on the land. At the same time it was proper to require them to account for the benefits they had derived from the use of the land. These questions were such as could only be fully and properly determine with so large a number of defendants, each having separate interests, by the exercise of equity jurisdiction.
+Upon a careful examination of the record, briefs, and arguments, in the case at bar, we have reached the conclusion that substantial justice has been done all concerned, and that no errors appear which entitle appellants to reversal of the judgment and decree entered by the court below. Affirmed.
+Lewis, J., concurs.
