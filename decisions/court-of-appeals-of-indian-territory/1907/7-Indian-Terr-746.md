@@ -1,0 +1,26 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1907-09-26"
+citations: ["7 Indian Terr. 746", "104 S.W. 1163", "7 Indian Terr. 749", "104 S.W. 1165"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(’laytoN, Townsend, and Lawrenoe, JJ., concur."]
+parties: ["Brown et al vs Gorman."]
+source_url: "https://static.case.law/indian-terr/7/cases/0746-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11657928
+cites_cases: ["31 Ark. 268", "31 Ark. 550", "32 Ark. 292"]
+---
+
+# Brown v. Gorman
+
+## Majority (Gill, C. J.)
+
+Gill, C. J.
+The appellee in this case, on August 2, 1905, secured judgment in the mayor's court-at Sapulpa for "$150.00 together with six per cent, from April 22, 1902, $29.25, and all costs in this action taxed at $11.35, a total of $190.60.'' On August 7, 1905, ajipellant filed his affidavit for an appeal and filed his appeal bond on August 14, 1905; said case being-appealed to the United States Court for the Western District of the Indian Territory, at Sapulpa. It seems that the mayor failed to file the transcript in said' court, and on the 8th day of December, 1905, a regular day of the next December term of said court, the appellee filed a purported transcript of said case in the said District Court, which transcript was docketed on motion of the appellee and presented to the court. And the court, being advised in the premises, affirmed the judgment of the mayor's court, and rendered judgment against the appellant and his sureties on bond for $190.60 and interest for $4.05, making a total of $194.65. On January 19, 1906, the appellant filed his motion to redocket said case, which motion was overruled bjr the court.
+Appellant complains that the court erred: (1) In rendering a judgment ex parte in favor of the appellee against appellant and his sureties on appeal bond, on motion of ap-pellee at the time case was docketed. (2) In refusing to allow the case to stand for trial de novo, notwithstanding the fact that it was docketed by appellee. (3) In refusing to set aside the ex parte judgment rendered on motion of appellee, and in refusing to redocket the case and try the same de novo; the appeal having been perfected from the mayor's court, and the record having been lodged and filed with the clerk of the United States Court for the Western District of the Indian Territory with proper bond for costs approved as required bjr statute in appealed cases.
+Section 4139 of Mansfield’s Digest of Statutes of Arkansas (Ind. Ter. Ann. St. 1899, § 2819) is as follows: “Sec. 4139. •On or before the first day of the Circuit Court next after the appeal shall have been allowed, the justice shall file in the office ■of the clerk of such court a transcript of all the entries made in his docket, relating to the cause, together with all the process and all papers relating to such suit.” Appellant argues from this section that it was the duty of the justice (or mayor) to send up the transcript, and that, if the mayor failed to do his duty in this respect, the appellant should not be made to suffer on account of such negligence. But the Supreme Court of Arkansas has held that it is the duty of the appellant to see that the transcript is filed as required, and, if he fails to do so, the Circuit Court may, in its discretion, dismiss or affirm for failure to prosecute the appeal. Smith vs Allen, 31 Ark. 268; McGehee vs Carroll & Jones, 31 Ark. 550; Hughes vs Wheat, 32 Ark. 292. We conclude, therefore, that these cases refute the first contention of the appellant.
+The only remaining question for us to determine is that covered by appellant’s second and third contentions, which may be treated together, namely: Did the court err in refusing to set aside the judgment it had entered and redoclceting the case ? Section 4152 of Mansfield’s Digest of the Laws of Arkansas (Ind. Ter. Ann. St. 1899, § 28§2) provides: “Sec. 4152. If the party appealing moves to dismiss in the Circuit Court, or fails to prosecute his appeal, it shall be at the option of the appellee either to proceed to trial on the appeal or have judgment rendered for the amount of the original judgment and costs where it was in his favor, or in bar of the original judgment where it was against him.” Under this section, and under the authorities above quoted, we believe that the judgment of the District Court was properly entered. The judgment of the District Court being proper and according to law, it was a. matter of discretion of the court below whether it should set-aside such judgment and redocket the case. An Appellate-Court will not interfere with rulings which are within the discretion of. the lower court, unless it has been conclusively shown that there has been an abuse of such discretion. In this case the appellant failed to have his transcript filed at the-proper time, as it was his duty to do under the decisions above-quoted. On account of this failure, the District Court entered judgment affirming the judgment of the mayor's court. We-do not consider it an abuse of discretion for the District Court to refuse to set aside its judgment and redocket the case.
+The judgment of the District Court is affirmed.
+(’laytoN, Townsend, and Lawrenoe, JJ., concur.
