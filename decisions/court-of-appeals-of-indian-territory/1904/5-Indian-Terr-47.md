@@ -1,0 +1,21 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1904-06-17"
+citations: ["5 Indian Terr. 47"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dawes et al vs Cundiff."]
+source_url: "https://static.case.law/indian-terr/5/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11652213
+cites_cases: ["32 Stat. 646"]
+---
+
+# Dawes v. Cundiff
+
+## Majority (Gill, J.)
+
+Gill, J.
+This was an action of mandamus begun in the Central District of the Indian Territory at South McAlester, to compel the Commission to the Five Civilized Tribes, appellants herein, to enroll as a member of the Choctaw tribe of Indians the appellee herein. Appellants filed a demurrer to the complaint, which was overruled by the court, and an exception was taken by the defendants on June 16, 1900. A motion was filed by the Choctaw and Chickasaw Tribes of Indians to be named parties defendant, which was by the court, on said June 16, 1900, overruled, and an exception taken by the defendants. Thereafter the defendants filed an answer to the complaint. To this answer of defendants, on March 22, 1901, plaintiff filed her demurrer, and thereafter, on March 22, 1901, the cause coming on to be heard upon the demurrer to the answer, said demurrer was by the court sustained, and defendants, appellants here, excepted, and elected to stand upon their said answer and refused to plead further. Whereupon the court pronounced its judgment as follows: “And the court being well and sufficiently advised in the premises, finds that on the second dajr of Deóember, 1896, the Commission to the Five Civilized Tribes duly and legally entered an order admitting plaintiff herein to citizenship jn the Choctaw Nation or Tribe of Indians, as a member by blood, and that said judgment has not been appealed from, and is still in full force and effect, and that it is the plain ministerial duty of the defendants, as Commissioners to the Five Civilized Tribes, to enroll the plaintiff herein as' a member by blood of the Choctaw Tribe or Nation of Indians, and to do any and all other things necessary to be done in order to protect her in her rights and privileges as such member of said Choctaw Nation or Tribe of Indians. And the court further finds that the defendants herein are the duly appointed, qualified, and acting Commissioners to the Five Civilized Tribes, and that they have refused and denied, and are now refusing and denying, the right of the plaintiff to be enrolled as a member of the Choctaw Nation or Tribe of Indians. It is therefore considered, ordered, and adjudged by the courts that the said defendants, as Commissioners to the Five Civilized Tribes, enroll the plaintiff, Nancy Lee Cundiff, as a member by blood of the Choctaw Tribe or Nation of Indians, and that in so enrolling her they do any and all things necessary to be done to protect her rights and privileges as fully as any other member of the Choctaw Tribe or Nation of Indians. It is further ordered and adjudged by the court that a peremptory writ of mandamus issue herein, as prayed for in the plaintiffs petition, commanding said defendant as such Commissioners to the Five Civilized Tribes, to so enroll said plaintiff as a member by blood of the Choctaw Tribe or Nation of Indians, and as a resident of the town of Durant, county of Blue, age 70 years, and to do any and all things necessary to be done in the premises in order to protect said plaintiff in all her rights and privileges as a member by blood of the said Choctaw Tribe or Nation of Indians; said writ of mandamus to be returnable on the 2nd, day of April, 1901.” Defendants duly excepted to the judgment of the court, and prayed an appeal to this court.
+By act of Congress July 1, 1902, 32 Stat. 646-648 c. 1362 par. 31-33, the citizenship court was created, and such court vested with exclusive jurisdiction to settle all claims of citizenship, and such Citizenship Court having exclusive jurisdietioNof this case, it is hereby remanded to the United States Court, where it originated, with directions to said court to certify all papers in connection with the cause to the Citizenship Court, for such action and determination as shall seem to said court meet and proper.
