@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1899-10-26"
+citations: ["2 Indian Terr. 524"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Clayton and Townsend, JJ., concur."]
+parties: ["Harris vs Bruton."]
+source_url: "https://static.case.law/indian-terr/2/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11655499
+cites_cases: ["30 S. W. 212"]
+---
+
+# Harris v. Bruton
+
+## Majority (Springer, C. J.)
+
+Springer, C. J.
+The appellees in this case file in this court a motion to dismiss the appeal for the reasons stated below: “First, because the printed record fails to comply with rule 9 of this court; second, because appellant’s brief fails to comply with rule 10 of this court, as to size and style, and character of type; third, because the brief of appellant fails to comply with section 2 of rule 10 in failing to contain any specification of érrors; fourth, because the record shows that no motion for a new trial was made or passed on in the court below,”
+While the grounds for dismissal stated in this motion as 1, 2, and 3 are technically well taken, the court would not be disposed to dismiss the appeal on this ground solely, for the reason that the appellant might be required by an order of the court to comply strictly with the rules. The fourth ground for dismissal is, however, free from any technical objection. In ordei; that the errors, if any, which occurred in the court below in this case, could be reviewed by the appellate court, it was necessary that a motion for a new trial should be made, and overruled by the court. Whenever it is desired to present for review in an appellate court a ruling of the trial court which does not appear upon the face of the record proper, an exception must be taken to the ruling at the time when it was made, anda bill of exceptions must bo drawn up embodying a statement of the ruling, and showing that an exception thereto was reserved at the time when the ruling was made. Thomp. Trials, § 2771. Whenever it is necessary to preserve by a bill of exceptions a ruling of the trial court, to secure a review thereof on appeal it is necessary that a motion for a new trial should be made in the court below. Severs vs Trust Co. 1 Ind. Ter. 1; Dunnington vs Frick Co. (Ark.) 30 S. W. 212. A motion for a new trial in this case was, therefore, required in order to entitle the plaintiff to an appeal, as the grounds upon which he relies for reversing the judgment can only be brought to the attention of the court by a bill of exceptions. There is a bill of exceptions in the record, but there is no motion for a new trial, as required by the statute. In the statement in this case the motion is set forth, and it is in the words following: ‘-Comes the plaintiff, and moves the court to set aside the order or judgment of the court herein withdrawing said case from the jury and dismissing said case.” In the record this is called a motion for a new trial, but that does not constitute it such a motion. The statute (Mansf. Dig. § 5151; Ind. T. Ann. St. 1899, § 3356) is as follows: “A new trial is a re-examination in the saíne court of an issue of: fact after a verdict by a jury or a decision by the court. The dormer verdict or decision may be vacated and a new trial granted, on the application-of the party aggrieved, for any of the following causes, affecting materially the sub stantial rights of such party. ’ ’ Then follows a statement of eight specific grounds upon which new trials may be granted. It is'not necessary to set forth these grounds in this opinion, but they embrace misconduct of the jury or prevailing party, irregularity in the proceedings of the court, accident or surprise, verdict not sustained by sufficient evidence, or is contrary to law, etc. Section 5154 (3359) states that the application must be made by motion upon written grounds filed at the time of making the motion. By reference to the alleged motion for a new trial in the case at bar, it will be seen that there is no “written ground” set forth as a reason for granting a new trial, or for setting aside the judgment or order of the court. The motion, therefore, is in no sense, under the statute, a motion for a new trial. No statutory ground was submitted, and there was nothing for the court to pass upon. The motion to dismiss the appeal must, therefore, be allowed.
+This court is not called upon to express an opinion upon the merits of the case. In the foregoing statement is set forth the opinion of the trial court upon the merits of the controversy, and his reasons for dismissing the suit, in which no error appears. If counsel for appellant had, therefore, laid a proper foundation for his appeal, it would not have availed him. The appeal is dismissed.
+Clayton and Townsend, JJ., concur.
