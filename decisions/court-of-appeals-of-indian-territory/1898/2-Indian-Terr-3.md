@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1898-06-13"
+citations: ["2 Indian Terr. 3"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Clayton and Thomas, JJ., concur. Townsend, J., did not participate in this case."]
+parties: ["Myers vs Mathis."]
+source_url: "https://static.case.law/indian-terr/2/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11652450
+---
+
+# Myers v. Mathis
+
+## Majority (Springer, C. J.)
+
+Springer, C. J.
+The direction of the trial judge to the jury to return a verdict for the defendants in this case was made, not on account of the evidence or want of evidence submitted on the trial, but solely on account of the legal questions involved. Hence it will not be necessary for the court to consider the testimony set forth in the record to determine whether the case should have been submitted to the jury. The legal questions of counsel in the case are as follows: First, that the alleged sale of the improvements in question by one R. J. Love to appellants, not having been in writing, was void under the statute of frauds; second, that under section 4476 of Mansfield’s Digest, the appellants, under the conceded facts in the case, were not entitled to prosecute a suit for the premises in question.
+Statute of frauds. Contract between Indians.
+The alleged sale of the improvements in question took place in 1887, and was a sale of improvements in the Chickasaw Nation by one citizen of the nation to another citizen of the nation. That sale was not in writing, but this court is of the opinion that the statute of frauds did not, at that time, apply to transfers of the kind in question ; that improvements or the right of possession to real estate in the Chickasaw Nation could be transferred by one citizen to another without the necessity of reducing the contract to writing. Since January 1, 1898, the laws enacted by congress in reference to the Indian Territory and the laws of Arkansas put in force by congress apply to all persons therein, without regard to race. Since that time the statute of frauds, which has been put in force, will apply to all contracts made in the Indian Territory by and between Indians of the same tribe as between other persons.
+The second contention presents a proposition of very grave importance, and deserves careful consideration. Section 4476 of Mansfield’s Digest is as follows: “No action for the recovery of real property, when the plaintiff does not claim title to the lands, shall be brought or maintained when the plaintiff or his testator or intestate has been five years out of possession. ’ ’ This provision was put in force in the Indian Territory by the act of congress approved May 2, 1890, and the statute of limitations began to run at that time, and was in force in the Indian Territory more than five years previous to the institution of this suit. It is conceded in the case at bar that the plaintiffs (appellants in this court) were out of possession of the improvents in question for more than five years prior to the institution of this suit. They allege in their complaint that they were on or about the first day of January, 1887, “seised of, and were in the actual, peaceable, and undisturbed possession and quiet occupancy” of, the premises in question. This court will take judicial cognizance of the fact that the title to the lands in the Chickasaw Nation is in the nation and not in the individual citizens thereof ; and, although the plaintiffs in this case assert in their petition that they were seised of the premises, yet this court must construe the language as applicable to the conditions which exist in that nation. The court below could not have adjudged the title to the premises to be in the appellants. It could only have adjudged the right of occupancy to be in them. Hence the appellants were not claiming the title to the lands in question, but were only claiming the right of occupancy to them, which one Indian may have of a part of the public domain of the nation. Having been out of possession for more than five years next preceding the institution of the suit, they could not maintain an action for the possession of the right of occupancy of the premises in question. In actions'of ejectment the plaintiff must recover upon the strength of his own title, and not upon the weakness of that of his adversary. In the case at bar the defendant states in her testimony that she purchased the premises of a person who was then in possession. She is a citizen of the United States, and while she cannot own real estate, or even have the legal right of occupancy of real estate or improvements, in the Chickasaw Nation, except under and by consent of a citizen of the nation, yet, being in peaceable possession, she could only be ousted of that possession by a person who is entitled to maintain a suit for it. The title to the property in question being in the Chickasaw Nation, that nation could alone maintain a suit for its possession. The judgment of the court below directing the jury to return a verdict for the defendants in this case is affirmed.
+Title to Indian Lands. Judicial Notice.
+Plaintiff out of possession not entitled to recover.
+Plaintiff must recover oo strength of his own title.
+Clayton and Thomas, JJ., concur. Townsend, J., did not participate in this case.
