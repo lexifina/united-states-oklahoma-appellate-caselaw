@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1901-10-05"
+citations: ["4 Indian Terr. 43"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gill, Clayton, and Raymond; JJ., concur."]
+parties: ["Blaylock vs Incorporated Town of Muskogee."]
+source_url: "https://static.case.law/indian-terr/4/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 618255
+cites_cases: ["1 C. C. A. 59", "12 S. W. 157", "4 Am. St. Rep. 32", "4 S. W. 450", "48 Fed. 154", "49 Ark. 140", "52 Ark. 84"]
+---
+
+# Blaylock v. Incorporated Town of Muskogee
+
+## Majority (Townsend, C. J.)
+
+Townsend, C. J.
+The appellant admits that the defendant was incorporated under the statutes of Arkansas (chapter 29, Mansf. Dig.; chapter 15, Ind. T. St. 1889), and quotes section 737 (section 507) of said chapter as defining the duty of defendant to keep its streets in repair. Said section is as follows: “Sec. 737 (507). The city council shall have the care, supervisU on and control of all the public highways, bridges, streets, alleys, public squares and commons within the city; and shall cause the same to be kept open and in repair, and free from nuisance.” It does not appear from the transcript or briefs of either appellant or appellee at what date the defendant became an incorporated town but there, is no contention by the appellant that the defendant did not derive all its powers from the statutes of Arkansas. That the construction and interpretation of those statutes by' the Supreme Court of Arkansas is binding upon this court is no longer an open question. See decision of Circuit Court of appeals in Sanger vs Flow, 1 C. C. A. 59, 48 Fed. 154, as follows: “In adopting the Arkansas statutes for the Indian country, it will be presumed that they were adopted with the construction and interpretation placed upon them by the Supreme Court of that .state prior to their adoption by congress.” The appellant seeks to escape the force of the foregoing decision by quoting the following from the decision of the Supreme Court of Arkansas in City of Arkadelphia vs Windham, 49 Ark. 140, 4 S. W. 450, 4 Am. St. Rep. 32: “It is the duty of incorporated towns and cities of this state to keep their streets in repair, but no'statute, expressly or by implication, makes them liable to a private action by an injured party for damages sustained by reason of a failure to discharge the duty,” — and insists that while the Supreme Court in the above case, and also in City of Ft. Smith vs York, 52 Ark. 84, 12 S. W. 157, which were cases directly in point with the case at bar, declared that it was the duty of towns and cities to keep their streets in repair, yet, because no statute expressly or by implication made them liable to a private action for damages for such failure, therefore those cases “were no construction of an Arkansas statute, and are not binding authority in the courts of the Indian Territory.” We cannot agree with this conclusion of appellant. The court says expressly that under the statutes in force in Arkansas authorizing the creation, defining the powers, and fixing the liabilities of incorporated towns in that state, “no statute, expressly or by implication, makes them liable to a private action by an injured party for damages sustained by reason of a failure to discharge the duty.” A construction and interpretation of the existing statutes in relation to the liabilities of incorporated towns could not have been more clearly or expressly •stated, and, before such towns can be made liable, there must be additional legislation going to that extent. These statutes have been adopted and put in force in the Indian Territory, with the construction and interpretation of the Supreme Court of Arkansas, and we are bound by the decisions of that court. We are therefore of opinion that to attempt to discuss or re-examine the arguments made and the reason given by the court in. arriving at its conclusions in City of Arkadelphia vs Windham would be superfluous and of no avail. The courts of the country are much divided in opinion, and, as an original proposition, we might have arrived at a different conclusion from the Arkansas court; but the question being settled, as we think, the judgment of the court below is affirmed.
+Gill, Clayton, and Raymond; JJ., concur.
