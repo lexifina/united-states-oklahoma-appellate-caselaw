@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1901-10-04"
+citations: ["3 Indian Terr. 562"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gill and Raymond, JJ., concur."]
+parties: ["Rogers et al. vs Hill."]
+source_url: "https://static.case.law/indian-terr/3/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 622272
+cites_cases: ["1 Ind. T. 184", "10 N. W. 895", "26 Pac 360", "39 S. W. 352", "46 Ill. App 244", "46 S. W. 180", "5 Cush. 583", "56 Mo. App. 549", "57 Iowa, 356", "88 Cal. 434"]
+---
+
+# Rogers v. Hill
+
+## Majority (Clayton, J.)
+
+Clayton, J.
+Appellants assign the following errors: (1) The court erred in sustaining plaintiff’s demurrer to defendant’s answer; (2) the court erred in holding that the deed from Green to Rogers was void; (8) the court erred in holding that a transfer, such as Green executed, did not terminate the relation of landlord and tenant; (4) the court erred in sustaining demurrer to defendants’ answer, because the fifth paragraph of said answer was good. The assignments may all be considered together, as they all necessarily depend upon a determination of the question as to whether or not the conveyance of Green to Rogers in 1896 terminated the relation of landlord and tenant between them. It is not contended by appellants, and is unquestionably not the law, that the transfer from Green to Rogers passed the title to the land, but appellents contend that under the rule laid down by this court in Kelly vs Johnson, 1 Ind. T. 184, (39 S. W. 352 ) it gave them the right of possession and occupancy as against any individual person, whether an Indian or .not. But we do not think the rule announced there applies to this case. In the case of Kelly vs Johnson the controversy was overa town lot, and the possession of the citizen of the United States was upheld on the theory that the custom of permitting white men to hold lots by purchase had become too well established to be questioned. But this is a controversy over an improved farm, and comes squarely within the rule laid down by this court in the case of Case vs Hall, 2 Ind. T. Rep. 8 (46 S. W. 180;) and, as held in that case, an attemjut to sell the land to a white man cannot be upheld, and a conveyance for that purpose is absolutely void.
+We do not think that the lease for eight years from Green to Rogers was legal, but as this is not raised, and it would make no particular difference if it -were, it may be stated that the appellants were tenants from year to year until the 1st of January, 1898. After that they became tenants at will, and demand for possession terminated the tenancy, and the right to maintain this action accrued. And the purchase by Hill of Green’s title gave Hill the same rights as were possessed by Green. But, considering that the attempted conveyance, void as far as passing title is •concerned, annulled the rental contract between the parties, is the appellant in any different attitude? We think not. It has been uniformly held that possession under an invalid conveyance or contract of sale creates a tenancy at will, and where a tenant goes into possession under an invalid lease his tenancy at its inception is merely a tenancy at will. Hall vs Wallace, 88 Cal. 434, 26 Pac 360; Packard vs Railroad Co., 46 Ill. App 244; Lehman vs Nolting, 56 Mo. App. 549; Howard vs Merriam, 5 Cush. 583; McIntosh vs Lee, 57 Iowa, 356, 10 N. W. 895. In this case, treating the rental contract as terminated, the appellant B. F. Rogers was holding possession of the premises under the void contract of sale, and was therefore a tenant at will of Green; and notice to quit and demand for possession gave him. the right to maintain action for unlawful detainer. And his assignee, Evans Hill, would be subrogated to all his rights. As to the other appellants, they being the admitted subtenants of B. F. Rogers, they stand in the same relation with him to the appellee herein.
+The appellants further contend that the court erred in sustaining the demurrer to the fifth paragraph of the answer, above set out. While it is true that a tenant is not permitted to dispute his landlord’s title, he may yet deny that the party seeking to oust him of possession is his landlord; and, if the paragraph referred to had denied the fact of the execution of the conveyance from Green to Hill, it would have been good as against a demurrer. But, on the contrary, it inferentially admits the execution, and denies that it conferred title. And the court held, properly, that this contention was not tenable; that the execution of the instrument being admitted, it was sufficient to pass title from Green to Hill. Finding no error in the record, the action of the court in sustaining the demurrér is therefore affirmed.
+Gill and Raymond, JJ., concur.
