@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1907-09-26"
+citations: ["7 Indian Terr. 497", "104 S.W. 813"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gill, C. L, and Townsend, J., concur."]
+parties: ["Lowrey vs Scargill."]
+source_url: "https://static.case.law/indian-terr/7/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11656584
+---
+
+# Lowrey v. Scargill
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+This cause had its beginning in the mayor’s court of the town of Spiro, January 10, 1906, against this plaintiff in error and codefendant, Alford F. Bissell, and was based upon an alleged sale and delivery of “six singletrees, 2 D. Trees and clivices and 4 clivices,” of the reasonable value of $6.25, by defendant in error to said defendants. Judgment was rendered in that court against both defendants for $6.25, from which they appealed to said United States District Court, where it was tried to a jury resulting in a verdict in favor of defendant in error against this plaintiff in error for $6.25. Plaintiff made motion for new trial, which was overruled, and judgment was rendered upon the verdict. From this, judgment plaintiff prosecutes this writ of error, and assigns 11 specific and alleged manifest errors committed by the District Court in the trial of the case: First, refusal of the court to allow this plaintiff in error to testify that the Indian Territory Investment Company was a corporation. Second, in admitting in rebuttal the testimony of the conversation of plaintiff in error with a witness Cutchelow. Third, in admitting the testimony of a witness, McBride, of a transaction between witness, plaintiff in error, and Cutchelow as to the purchase price of the goods in question. Fourth, in admitting the testimony of a witness, Moore, of a conversation between plaintiff in error and the witness Cutchelow'. Fifth, in refusing to allow the officers of the Indian Territory Investment Company to testify that it was an incorporation. Sixth, in instructing the jury: “They deny that Cutchelow was authorized by them to purchase the articles, and they say that if they were purchased by them, it was not for their individual benefit, but in their official capacity as officers of a certain corporation.” Seventh, in instructing the jury: “In this case the court instructs you that they cannot escape payment on the plea that they were acting as officers of a corporation, because they have not shown any existence of a corporation.” Eighth, in instructing the jury: “Or, not being authorized, if he purchased the goods for them and they knowingly received them, and knowingly used them, then they would be liable.” Ninth, the verdict is contrary to the law. Tenth, the verdict is contrary to the evidence. Eleventh, in overruling the motion for a new trial.
+Their being no pleadings, the facts áre to be gathered from the evidence; It appears from the bill of exceptions that the witness Cutchelow was a servant -of the defendants Lowrey and Bissell, and was in need of some tools with which to do the work they required, and he testified that the plaintiff in error told him to purchase them upon their credit, which the witness states that he did of the defendant in error, and they were charged upon his book of accounts to “Bissell & Lowrey.” Bissell testified denying that he in any manner authorized the purchase to be made upon the credit of himself and Lowrey, and states that the work was being done for the Indian Territory Investment Company. Lowrey testified to the same effect. The testimony of Cutchelow as to authority given him by Lowrey was corroborated by witnesses McBride and defendant in error. The court instructed the jury that if it believed from the greater weight of the evidence that the defendants, or either of them, procured the goods without disclosing for whom they were being purchased, then the one, or both, making or directing the purchase, would thereby become personally liable to pay the seller for the reasonable price of the goods.
+The jury found against the defendant Lowrey, and we think the evidence and instructions justified it; and, further, that the court did not err.in its instructions. The sole issue was: Were the goods sold and delivered at the request, express or implied, of the defendants, or either of them? This was. entirely a question of fact for the jury, and there is nothing in this record indicating that they did not properly find upon the greater weight of the evidence, and that the court properly instructed them as to the law, and its rulings upon the admission and exclusion of the evidence were without prejudicial error.
+The judgment is affirmed.
+Gill, C. L, and Townsend, J., concur.
