@@ -1,7 +1,7 @@
 ---
 court: "Court of Appeals of Indian Territory"
 decided: "1902-09-25"
-citations: ["4 Indian Terr. 269", "4 Indian Terr. 204"]
+citations: ["4 Indian Terr. 269"]
 reporter: "indian-terr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Williams vs United States."]
 source_url: "https://static.case.law/indian-terr/4/cases/0269-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 618287
-cites_cases: ["16 Mich. 40", "20 S. W. 390", "24 S. W. 100", "24 S. W. 449", "26 Stat. 96", "28 Stat. 696", "35 Ark. 445", "35 N. E. 1106", "38 S. W. 331", "38 S. W. 333", "38 S. W. 334", "38 S. W. 673", "40 Am. St. Rep. 786", "42 N. Y. 265", "93 Am. Dec. 203"]
+cites_cases: ["16 Mich. 40", "20 S. W. 390", "24 S. W. 100", "24 S. W. 449", "35 N. E. 1106", "38 S. W. 331", "38 S. W. 333", "38 S. W. 334", "38 S. W. 673", "40 Am. St. Rep. 786", "42 N. Y. 265", "93 Am. Dec. 203"]
 ---
 
 # Williams v. United States
