@@ -1,0 +1,23 @@
+---
+court: "Court of Appeals of Indian Territory"
+decided: "1898-04-02"
+citations: ["1 Indian Terr. 567"]
+reporter: "indian-terr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Clayton, Thomas, and Townsend, JJ., concur."]
+parties: ["Phillips vs Corey."]
+source_url: "https://static.case.law/indian-terr/1/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11655912
+---
+
+# Phillips v. Corey
+
+## Majority (Springer, C. J.)
+
+Springer, C. J.
+(after stating the facts). Only tw errors are assigned by the appellants in this case: First that the court erred in overruling the motion of T. J. Phil lips, defendant below, to quash the return of the marsha on the summons; second, that the court erred in overrulin; the motion of the said T. J. Phillips, praying that the judg ment entered in this case be set aside, and a new trig granted.
+While the record discloses the fact that appellant moved to quash the summons, for the reason that it was no issued according to law, yet counsel for appellants do nc contend that the overruling of this motion was error. Tb defendant, T. J. Phillips, appeared specially, for the soi purpose of submitting the motion j ust stated, and also t move the court to quash the return on the summons as i him, for the reason that said return is not according to lav The summons as to the co-defendant of Phillips was prope: ly issued and served, so that the court had jurisdiction as him. It appears, however, that he declined to interpo, any defense to the plaintiff’s action in the court below, he had'appeared, the rights of both him and his co-defen ant could have been secured by his appearance and defens The contention of counsel for appellants is that the' ma] shal’s return on the summons as to T. J. Phillips was not accordance with law. It appears, however, from an exar nation of the record in the case, that the marshal did n| make any return as to Phillips. He simply wrote him letter in which he requested him to accept service in tl| case, and on the letter were indorsed the words: “I acce; service in above case. When will it be tried? [Signed] J. Phillips. ” The record discloses the fact that Philli acknowledged in open court, at the time he appear' specially to make his motion to quash the return, that did receive the letter indicated, from the marshal, and tbl he wrote his acceptance as indicated, and signed his nax o it. Counsel ior appellants insist that this acceptance is tot in accordance with the provisions of Mansfield’s Di-;est Ark. § 4978, which provides that service of sum-ions may be acknowledged by the defendant by an idorsement upon the summons signed. and dated by Im, attested by a witness, and that the affidavit of such fitness shall be proof of the service. There was no necesity for the affidavit of a witness in the case at bar. The ppellant Phillips appeared specially in court, and aeknow-sdged that the acceptance of service was in his handwriting, nd that he had signed his name thereto. Counsel insist, owever, that this acceptance must have been indorsed up-n the summons. It does not appear from the evidence in lis case that a copy of the summons accompanied the íarshal’s letter, but it is plainly inferable from the text of ae marshal’s letter and the acceptance thereon that a copy f the summons did accompany the marshal’s letter. How-ver this may be, appellant Phillips was informed of the .tie of the case, and over his own signature, which he ac-nowledged in open court to be genuine, he accepted the srvice. The court, in overruling his motion to quash the 3turn, did not prejudice appellant Phillips’ substantial ights. He was notified of the pendency of the suit. He ccepted the service which the marshal requested him to icept, but qualified his appearance by stating that it was. lade for the sole purpose of moving to quash the return.
+We are of the opinion that appellant Phillips accepted 3rvice in this case in such a manner as required him to take otice of the pendency of the suit, and to appear and make sfense thereto, if he had any defense to submit. His co-sfendant had no excuse or even a pretext to refrain from efending the action. We may assume, under such circum-;ances, that the appellants bad no meritorious defense to íe action, and that their present appearance is for the pur-ose of taking advantage of the merest technicalities, Their substantial rights have not been prejudiced, and no undue advantage has been taken of them. The judgment of the court below is therefore affirmed.
+Clayton, Thomas, and Townsend, JJ., concur.
